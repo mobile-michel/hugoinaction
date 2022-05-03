@@ -1,1 +1,3 @@
-# hugoinaction
+# Book Hugo in Action
+
+Exercices
